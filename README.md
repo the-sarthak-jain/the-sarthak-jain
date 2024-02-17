@@ -5,22 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-sarthak-jain" alt="the-sarthak-jain" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently studying [BCA at World College of Technology and Management, Gurgaon](https://www.wctmgurgaon.com/)
 
 - 🌱 I’m currently learning **Programming and Full Stack Development**
 
 - 👯 My Area of Interest's are **Web development, UI/UX Designing and Development, Full Stack Development**
 
+- 👨‍💻 All of my projects are available at [https://github.com/the-sarthak-jain](https://github.com/the-sarthak-jain)
+
 - 📫 How to reach me **mail.sarthakjain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-jainn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jainn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sarthak-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sarthak-jain" height="30" width="40" /></a>
 <a href="https://instagram.com/codebysarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codebysarthak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@codebysarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codebysarthak" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@codebysarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codebysarthak" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sarthakjain_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthakjain_01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thesarthakjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thesarthakjain" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sarthak-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sarthak-jain" height="30" width="40" /></a>
